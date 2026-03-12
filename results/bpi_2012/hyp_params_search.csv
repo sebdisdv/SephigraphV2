@@ -1,0 +1,3 @@
+trial_index,arm_name,trial_status,generation_method,valid_loss,layers,lr,batch_size,aggregation,hid
+1,1_0,COMPLETED,Sobol,0.36811313033103943,4,0.00038344171023639725,64,sum,128
+0,0_0,COMPLETED,Sobol,0.7173586487770081,2,0.0014528509914685322,256,mean,128
